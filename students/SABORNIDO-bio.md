@@ -1,0 +1,4 @@
+- Year/Section: 3rd Year / G02
+- Favorite Language:  Java, Python
+- One Git Tip Learned:  Use `git status` always
+- GitHub: @xaviersabornido
