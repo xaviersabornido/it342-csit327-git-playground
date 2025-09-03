@@ -154,9 +154,10 @@ git fetch origin && git merge origin/main
 
 ## Contributors
 
-- Sabornido, Xavier John (**@xaviersabornido**)
+
 - @blissfuljuan
-=======
 - _Add your name here in Task C_
 - Revilleza, Frederick (**@blissfuljuan**)
-
+- Montejo, Primo Christian (**@primzcm**)
+- Monteclaro, Kurt David M. (**@kurtmonteclaro**)
+- Sabornido, Xavier John (**@xaviersabornido**)
